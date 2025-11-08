@@ -10,8 +10,9 @@ Accuracy:  0.7886 ,Precision: 0.7988 ,Recall:    0.7713 , F1 Score:  0.7848 , PR
 Random Forest
 Accuracy : 0.7854, Precision: 0.8098 ,Recall   : 0.7458 , F1       : 0.7765 ,AUC-PR   : 0.8527 
 LGBM
+Accuracy:  0.787 Precision: 0.7988 Recall:    0.767  F1 Score:  0.7826  PR AUC:    0.8628 
 
-
+EL Mejor modelo es XGBOOST con 77,15% de casos malos descubiertos con 80% de precision
 
 
 
