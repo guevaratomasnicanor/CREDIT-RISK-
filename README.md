@@ -26,6 +26,9 @@
 ---
 
 ## 🔍 Principales hallazgos
+-50 % de Personas con morosidad grave en un periodo de 2 años.
+- El 68% de las personas no estuvieron atrasadas entre 30 y 59 días
+- El 55 % Nunca estuvieron atrasadas.
 
 - Mayor frecuencia de **pagos atrasados** (30–59, 60–89 y +90 días) en los morosos.
   <img width="1342" height="690" alt="Captura de pantalla 2025-11-12 131224" src="https://github.com/user-attachments/assets/be756907-b602-4462-be5e-cd28637e3e16" />
