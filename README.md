@@ -26,7 +26,7 @@
 ---
 
 ## 🔍 Principales hallazgos
--50 % de Personas con morosidad grave en un periodo de 2 años.
+- 50 % de Personas con morosidad grave en un periodo de 2 años.
 - El 68% de las personas no estuvieron atrasadas entre 30 y 59 días
 - El 55 % Nunca estuvieron atrasadas.
 
