@@ -37,7 +37,7 @@
 - Poseen un **menor ratio de deuda actual**, posiblemente porque ya enfrentan restricciones crediticias.  
 - Tienen **menores ingresos mensuales promedio**.  
 - Los morosos presentan **más dependientes**, lo que podría reflejar mayor presión financiera.
-<img width="1359" height="693" alt="Captura de pantalla 2025-11-12 142229" src="https://github.com/user-attachments/assets/e2515b92-24cd-42d2-85e7-73f171cfd557" />
+
 
 ---
 
