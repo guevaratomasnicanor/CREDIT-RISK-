@@ -21,7 +21,7 @@
 | **open_credit** | Número de líneas de crédito o préstamos abiertos |
 | **real_estate** | Número de préstamos o líneas de crédito hipotecario |
 | **dependents** | Número de dependientes |
-| **dlq_2yrs** | **Variable objetivo** — Indica si ocurrió una morosidad seria en los próximos 2 años (0 = No, 1 = Sí) |
+| **dlq_2yrs** | **Variable objetivo** — Indica si ocurrira una morosidad seria en los próximos 2 años (0 = No, 1 = Sí) |
 
 ---
 
