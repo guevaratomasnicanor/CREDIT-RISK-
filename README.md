@@ -38,6 +38,7 @@
 - Tienen **menores ingresos mensuales promedio**.  
 - Los morosos presentan **más dependientes**, lo que podría reflejar mayor presión financiera.
 
+<img width="1354" height="693" alt="Captura de pantalla 2026-01-31 193231" src="https://github.com/user-attachments/assets/84e46579-44e1-476d-a1ec-1a258931166e" />
 
 ---
 
