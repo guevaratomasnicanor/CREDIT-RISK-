@@ -51,7 +51,7 @@
 | **LightGBM** | 0.7870 | 0.7988 | 0.7670 | 0.7826 | **0.8628** |
 
 
-EL Mejor modelo es XGBOOST con 77,15% de casos malos descubiertos con 80% de precision
+EL Mejor modelo es Random XGBOOST con 77,13% de casos malos descubiertos con 80% de precision.
 
 
 
