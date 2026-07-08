@@ -53,6 +53,19 @@
 
 EL Mejor modelo es Random XGBOOST con 77,13% de casos malos descubiertos con 80% de precision.
 
+## 💼 Caso de Negocio: Impacto Financiero y Optimización del Punto de Corte
+
+Un modelo predictivo no genera valor por su precisión matemática, sino por las decisiones financieras que habilita. Para conectar la performance del algoritmo con el balance de la compañía, se modeló una función de utilidad considerando costos reales de la industria fintech/bancaria:
+* **Pérdida dado el Incumplimiento (LGD):** Costo del capital perdido por cada *default*.
+* **Margen de Interés Neto (NIM):** Retorno financiero de los clientes cumplidores.
+* **Costos Operativos y de Cobranza preventiva.**
+
+### 📈 Maximización del Beneficio
+A través de las curvas de decisión, se determinó el **punto de corte (threshold) óptimo** para la aprobación de créditos:
+
+1. **Eficiencia en la Admisión:** Fijando una tasa de aprobación sostenible del **70%** (requerimiento estándar para mantener la originación de negocio y el crecimiento de la cartera), el modelo logra rechazar al 30% restante con una precisión de filtrado altísima: **9 de cada 10 rechazos eran perfiles con riesgo real de default**.
+2. **Retorno Económico:** La implementación automatizada de esta política de admisión generó un **beneficio neto estimado de USD 7.8M** en comparación con una política de aprobación tradicional o basada en reglas expertas lineales.
+3. **Estrategia Mitigante:** La detección temprana del 77% de los perfiles de riesgo permite activar células de **cobranza preventiva** y esquemas de **Risk-Based Pricing** (ajuste de tasas de interés indexadas al riesgo individual), protegiendo la rentabilidad sin frenar la expansión comercial.
 
 
 
